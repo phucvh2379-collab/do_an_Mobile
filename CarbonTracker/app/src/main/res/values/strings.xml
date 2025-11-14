@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Carbon Tracker</string>
+    <string name="welcome_title">Carbon Tracker</string>
+    <string name="welcome_subtitle">Theo dõi dấu chân carbon của bạn\nvà bảo vệ môi trường</string>
+    <string name="start_button">Bắt đầu tính toán</string>
+    <string name="user_info_title">Thông tin cá nhân</string>
+    <string name="survey_title">Khảo sát hành vi hàng ngày</string>
+    <string name="result_title">Kết quả phân tích</string>
+    <string name="challenge_title">Thử thách 7 ngày sống xanh</string>
+    <string name="dashboard_title">Báo cáo &amp; Biểu đồ</string>
+    <string name="knowledge_title">Kiến thức môi trường</string>
+</resources>
